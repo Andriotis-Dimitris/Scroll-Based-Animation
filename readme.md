@@ -1,3 +1,12 @@
+# About 
+Based on Three.js Journey
+Created to experiment with scroll based animations within 3js.
+
+## Links
+
+- [GitHub](https://github.com/Andriotis-Dimitris/Scroll-Based-Animation)
+- [Live](https://scroll-based-animation-andriotis-dimitris-projects.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
