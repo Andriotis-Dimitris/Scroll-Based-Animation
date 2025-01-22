@@ -1,5 +1,5 @@
 # About 
-Based on Three.js Journey
+Based on Three.js Journey.
 Created to experiment with scroll based animations within 3js.
 
 ## Links
